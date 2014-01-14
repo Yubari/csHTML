@@ -1,4 +1,4 @@
 csHTML
 ======
 
-C#
+[Read wiki](https://github.com/Yubari/csHTML/wiki)
